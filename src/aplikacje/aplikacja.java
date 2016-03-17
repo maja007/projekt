@@ -1,3 +1,4 @@
+// Maja. Pierwszy komentarz :D
 package aplikacje;
 
 public class aplikacja {
